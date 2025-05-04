@@ -20,6 +20,8 @@ duckdb
 pandas
 openai
 langchain-groq
+plotly
+
 
 
 
