@@ -11,4 +11,4 @@ This project simulates real-time data using a machine learning model and answers
 pip install -r requirements.txt
 
 
-Groq api key ="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"
+Groq api key
