@@ -39,7 +39,7 @@ os.environ['HF_TOKEN'] = os.getenv("HF_TOKEN")
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
 # Streamlit UI setup
-st.title("Conversational RAG With PDF uploads and chat history")
+st.title("RAGify")
 st.write("Upload PDFs and chat with their content")
 
 # API Key input
